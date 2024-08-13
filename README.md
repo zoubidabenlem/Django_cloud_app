@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
-5. Run the Development Server
+### 5. Run the Development Server
 ```
 python manage.py runserver
 ```
